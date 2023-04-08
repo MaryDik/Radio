@@ -1,4 +1,4 @@
-package ru.netoj
+package ru.netology.radio;
 
 public class Radio {
     private int RadioStation;
